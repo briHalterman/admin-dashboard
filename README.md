@@ -8,6 +8,7 @@ A full dashboard design built to practice using Grid.
 - [x] Set up Git repo
 - [x] Set up HTML and CSS files with dummy content
 - [x] Download copy of project design file
+- [x] Add a simple CSS reset and base styles
 
 #### Project Design Reference
 ![Dashboard Preview](./assets/dashboard-preview.png)
