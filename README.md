@@ -15,7 +15,7 @@ A full dashboard design built to practice using Grid.
 
 ### Step 2: Layout
 - [x] Start by writing out the HTML elements for the sidebar, header and main-content containers
-- [ ] Apply Grid properties to build basic layout
+- [x] Apply Grid properties to build basic layout
 
 ### Step 3: Nesting
 - [ ] Taking it one section at a time, begin nesting child elements under the parent elements in the HTML
