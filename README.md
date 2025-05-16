@@ -24,7 +24,7 @@ A full dashboard design built to practice using Grid.
 - [x] Use more grids to lay out the search bar, user info and buttons
 - [x] Nest elements of the main content
 - [x] Use more grids to lay out the missions, updates and watchlist
-- [ ] Nest elements, lay out, and style mission cards
+- [x] Nest elements, lay out, and style mission cards
 - [ ] Nest, layout and style elements of updates and watchlist
 
 ### Step 4: Complete
