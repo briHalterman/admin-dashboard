@@ -13,17 +13,20 @@ A full dashboard design built to practice using Grid.
 #### Project Design Reference
 ![Dashboard Preview](./assets/dashboard-preview.png)
 
-### Step 2: Layout
+### Step 2: Base Layout
 - [x] Start by writing out the HTML elements for the sidebar, header and main-content containers
 - [x] Apply Grid properties to build basic layout
 
-### Step 3: Nesting
-- [ ] Taking it one section at a time, begin nesting child elements under the parent elements in the HTML
-- [ ] In the sidebar, use more grids to lay out the navigation and branding sections
-- [ ] In the header, use more grids to lay out the search bar, user info and buttons
-- [ ] For the main-content, use more grids to lay out the projects, announcements and trending items
+### Step 3: Nesting Layout
+- [x] Nest elements of the sidebar
+- [ ] Use more grids to lay out the navigation and branding sections
+- [ ] Nest elements of the header
+- [ ] Use more grids to lay out the search bar, user info and buttons
+- [ ] Nest elements of the main content
+- [ ] Use more grids to lay out the projects, announcements and trending items
 - [ ] Fill out some dummy content and placeholder images to position all of the grid items
 
 ### Step 4: Complete
+- [ ] Gather assets
 - [ ] Either recreate the dashboard example above or style own design
 - [ ] Push to GitHub & Publish
