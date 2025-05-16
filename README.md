@@ -7,7 +7,10 @@ A full dashboard design built to practice using Grid.
 ### Step 1: Set up and planning
 - [x] Set up Git repo
 - [x] Set up HTML and CSS files with dummy content
-- [ ] Download copy of project design file
+- [x] Download copy of project design file
+
+#### Project Design Reference
+![Dashboard Preview](./assets/dashboard-preview.png)
 
 ### Step 2: Layout
 - [ ] Start by writing out the HTML elements for the sidebar, header and main-content containers
@@ -23,4 +26,3 @@ A full dashboard design built to practice using Grid.
 ### Step 4: Complete
 - [ ] Either recreate the dashboard example above or style own design
 - [ ] Push to GitHub & Publish
-
