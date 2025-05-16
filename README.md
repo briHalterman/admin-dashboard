@@ -13,7 +13,7 @@ A full dashboard design built to practice using Grid.
 ![Dashboard Preview](./assets/dashboard-preview.png)
 
 ### Step 2: Layout
-- [ ] Start by writing out the HTML elements for the sidebar, header and main-content containers
+- [x] Start by writing out the HTML elements for the sidebar, header and main-content containers
 - [ ] Apply Grid properties to build basic layout
 
 ### Step 3: Nesting
