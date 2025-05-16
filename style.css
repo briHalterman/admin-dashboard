@@ -184,3 +184,26 @@ nav a:hover {
   grid-area: main;
   background-color: #F0F2F5;
 }
+
+.projects {
+  margin-bottom: 2rem;
+}
+
+.projects h2 {
+  margin-bottom: 1rem;
+  font-size: 1.25rem
+}
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+}
+
+.project-card {
+  background-color: white;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
