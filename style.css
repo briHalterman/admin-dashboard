@@ -43,9 +43,66 @@ select {
 
 .sidebar {
   grid-area: sidebar;
+  display: grid;
+  grid-template-rows: auto 1fr;
   background-color: #628395;
   color: white;
   padding: 1rem;
+  gap: 2rem;
+}
+
+.sidebar-branding {
+  display: flex;
+  align-items: center;
+}
+
+.sidebar-logo {
+  margin-bottom: 2rem;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+}
+
+nav {
+  padding-left: 1rem;
+}
+
+nav ul {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 2rem;
+  display: grid;
+  gap: 1rem;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: none;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 4px;
+  padding: 0.5rem;
+  display: inline-block;
+}
+
+.primary-nav,
+.secondary-nav {
+  list-style: none;
+  padding-left: 0;
+  display: grid;
+  gap: 1rem;
+}
+
+.secondary-nav {
+  margin-top: 2rem;
+  padding-top: 1rem;
 }
 
 .header {

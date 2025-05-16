@@ -19,7 +19,7 @@ A full dashboard design built to practice using Grid.
 
 ### Step 3: Nesting Layout
 - [x] Nest elements of the sidebar
-- [ ] Use more grids to lay out the navigation and branding sections
+- [x] Use more grids to lay out the navigation and branding sections
 - [ ] Nest elements of the header
 - [ ] Use more grids to lay out the search bar, user info and buttons
 - [ ] Nest elements of the main content
