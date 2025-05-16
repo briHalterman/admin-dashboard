@@ -6,7 +6,7 @@ A full dashboard design built to practice using Grid.
 
 ### Step 1: Set up and planning
 - [x] Set up Git repo
-- [ ] Set up HTML and CSS files with dummy content
+- [x] Set up HTML and CSS files with dummy content
 - [ ] Download copy of project design file
 
 ### Step 2: Layout
