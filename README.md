@@ -25,7 +25,7 @@ A full dashboard design built to practice using Grid.
 - [x] Nest elements of the main content
 - [x] Use more grids to lay out the missions, updates and watchlist
 - [x] Nest elements, lay out, and style mission cards
-- [ ] Nest, layout and style elements of updates and watchlist
+- [x] Nest, layout and style elements of updates and watchlist
 
 ### Step 4: Complete
 - [ ] Add SVGs & agent profile images

@@ -194,7 +194,6 @@ nav a:hover {
 .secondary-content {
   display: flex;
   flex-direction: column;
-  gap: 2rem;
   grid-column: 2;
 }
 
@@ -231,7 +230,7 @@ nav a:hover {
   margin-bottom: 0.5rem;
 }
 
-.project-description {
+.mission-description {
   color: #555;
   flex-grow: 1;
 }
@@ -246,17 +245,24 @@ nav a:hover {
 .updates,
 .watchlist {
   padding: 1rem;
-  border-radius: 8px;
+  /* border-radius: 8px; */
   margin-bottom: 2rem;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
   grid-column: 2;
 }
 
-.update-card {
+.update {
   background-color: white;
   margin-top: 0.5rem;
   padding: 0.75rem;
   border-radius: 6px;
+}
+
+.update-description {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
 }
 
 .watchlist ul {
@@ -269,5 +275,20 @@ nav a:hover {
   padding: 0.5rem;
   margin-top: 0.5rem;
   border-radius: 6px;
+}
+
+.watchlist h4 {
   font-weight: bold;
+}
+
+.main-content p {
+  color: #666;
+}
+
+.card {
+  padding: 1rem;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+  background-color: white
 }
