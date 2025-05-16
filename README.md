@@ -22,11 +22,12 @@ A full dashboard design built to practice using Grid.
 - [x] Use more grids to lay out the navigation and branding sections
 - [x] Nest elements of the header
 - [x] Use more grids to lay out the search bar, user info and buttons
-- [ ] Nest elements of the main content
-- [ ] Use more grids to lay out the projects, announcements and trending items
-- [ ] Fill out some dummy content and placeholder images to position all of the grid items
+- [x] Nest elements of the main content
+- [x] Use more grids to lay out the missions, updates and watchlist
+- [ ] Nest elements, lay out, and style mission cards
+- [ ] Nest, layout and style elements of updates and watchlist
 
 ### Step 4: Complete
-- [ ] Add SVGs
+- [ ] Add SVGs & agent profile images
 - [ ] Either recreate the dashboard example above or style own design
 - [ ] Push to GitHub & Publish
