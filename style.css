@@ -332,3 +332,19 @@ nav a:hover {
   width: 15px;
   height: 15px;
 }
+
+.watchlist-agent {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.agent-avatar {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid #628395;
+  object-position: top;
+}
